@@ -1,4 +1,4 @@
-# Algorithms-Data-Strucutres
+# Algorithms-Data-Structures
 
 1. Doubly Linked Lists & Algorithm Design
 
