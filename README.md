@@ -11,3 +11,5 @@
 4. Balanced Binary Search Tree
 
 5. Hashing
+
+6. Sorting Algorithms Design(to be updated!!)
