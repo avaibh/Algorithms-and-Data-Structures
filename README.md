@@ -1,5 +1,10 @@
 # Algorithms-Data-Structures
 
+Assignments are named in a particular manner: <Institute_Roll_Number>_X_Y (X is the assignment number; Y is the subsection of assignment X)
+
+Following are the assignments (X):
+
+
 1. Doubly Linked Lists & Algorithm Design
 
 2. Stacks & Queues
